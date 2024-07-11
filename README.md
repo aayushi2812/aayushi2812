@@ -1,16 +1,7 @@
 ## Hi there 👋 I am Aayushi Parekh
 
-<!--
-**aayushi2812/aayushi2812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I am a Software Developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Reach me at https://www.linkedin.com/in/aayushi-parekh-08426a181/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I am a Software Developer with more than 3 years of experience in the field
+-  My tech stack for Frontend Development includes HTML, CSS, JavaScript, TypeScript, Angular and React.
+-  My tech stack for Backend Development Java, Python, C, C++, Spring boot, Node.js, C# and Go.
+-  I have experience with Database like MySql, Oracle, PostgreSQL and MongoDB.
+-  For more information reach me at aayushiparekh2812@gmail.com
